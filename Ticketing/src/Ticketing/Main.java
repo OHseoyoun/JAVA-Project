@@ -15,6 +15,7 @@ import javax.swing.SwingConstants;
 
 public class Main {
     public static void main(String[] args) {
+    	
     	JFrame frame = new JFrame();
     	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     	frame.setSize(1200,600);//프레임 크기 설정
